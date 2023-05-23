@@ -8,8 +8,8 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        normal: 'var(--font-roboto)'
-      }
+        normal: 'var(--font-roboto)',
+      },
     },
   },
   plugins: [],
