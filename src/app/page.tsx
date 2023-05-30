@@ -1,4 +1,4 @@
-import { User } from 'lucide-react'
+// import { User } from 'lucide-react'
 import Image from 'next/image'
 import LogoHeader from './assets/LogoHeader.png'
 import Icon from './assets/IconeGithub.png'
